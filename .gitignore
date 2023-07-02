@@ -1,3 +1,5 @@
 env
 json
-config
+server/flask.cfg
+.DS_Store
+alembic
